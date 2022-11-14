@@ -93,7 +93,7 @@ body {
 .features {
   overflow: hidden;
   padding-top: 40px;
-  padding-bottom: 50px;
+  padding-bottom: 40px;
 }
 
 .fl-left {
@@ -103,6 +103,11 @@ body {
 h2,
 h3 {
   color: #777;
+}
+
+.mentor {
+  min-height: 457px;
+  background-color: #1b4e50;
 }
 
 .about-us {
